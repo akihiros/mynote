@@ -6,7 +6,7 @@
 
 # 概要図
 
-![](../../drawio/export/azure004.png)
+![](../drawio/export/azure004.png)
 # 手順
 
 ## リソース構築
